@@ -4,7 +4,7 @@
 基于某Hunter代码的大魔改计划
 
 #### 软件架构
-运行前置 LiteLoaderBDS 2.4.3
+运行前置 LiteLoaderBDS 2.4.2
 建议在Windows系统下
 
 #### 安装教程
