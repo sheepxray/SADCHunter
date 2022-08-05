@@ -79,6 +79,7 @@ if (traab["配置文件版本号"] != configVersion) {
 	}, 8000)
 	read()
 }
+//这个玩意没弄好c
 if (traab["自动更新"] == true) {
 	network.httpGet('https://gitee.com/sheepxray/sadchunter/blob/master/version.json', function (st, dat) {
 		if (st == 200) {
