@@ -1,4 +1,4 @@
-var Version = "v1.0"
+var Version = "v1.1"
 var configVersion = "v1.0"
 //配置文件文件夹生成
 let DefaultLang = {
